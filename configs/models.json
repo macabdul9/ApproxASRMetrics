@@ -1,0 +1,75 @@
+{
+    "encodec_bpe_ctc": [
+        "nvidia/parakeet-ctc-1.1b",
+        "nvidia/parakeet-ctc-0.6b",
+        "nvidia/stt_en_conformer_ctc_large",
+        "nvidia/stt_en_fastconformer_ctc_large",
+        "nvidia/stt_en_conformer_ctc_small"
+    ],
+    "encodec_rnnt_bpe": [
+        "nvidia/parakeet-tdt-1.1b",
+        "nvidia/parakeet-rnnt-1.1b",
+        "nvidia/parakeet-rnnt-0.6b",
+        "nvidia/stt_en_fastconformer_transducer_large"
+    ],
+    "nemo_asr": [
+        "nvidia/parakeet-tdt_ctc-110m"
+    ],
+    "speechbrain": [
+        "speechbrain/asr-wav2vec2-librispeech"
+    ],
+    "data2vec": [
+        "facebook/data2vec-audio-large-960h",
+        "facebook/data2vec-audio-base-960h"
+    ],
+    "wav2vec2": [
+        "facebook/wav2vec2-large-960h-lv60-self",
+        "facebook/wav2vec2-large-robust-ft-libri-960h",
+        "facebook/wav2vec2-large-960h",
+        "facebook/wav2vec2-base-960h"
+    ],
+    "wav2vec2_conformer": [
+        "facebook/wav2vec2-conformer-rope-large-960h-ft",
+        "facebook/wav2vec2-conformer-rel-pos-large-960h-ft"
+    ],
+    "mms": [
+        "facebook/mms-1b-all",
+        "facebook/mms-1b-fl102"
+    ],
+    "hubert": [
+        "facebook/hubert-xlarge-ls960-ft",
+        "facebook/hubert-large-ls960-ft"
+    ],
+    "seamless": [
+        "facebook/hf-seamless-m4t-large",
+        "facebook/hf-seamless-m4t-medium"
+    ],
+    "seamlessv2": [
+        "facebook/seamless-m4t-v2-large"
+    ],
+    "speechllm": [
+        "skit-ai/speechllm-1.5B",
+        "skit-ai/speechllm-2B"
+    ],
+    "whisper": [
+        "openai/whisper-large-v3",
+        "distil-whisper/distil-large-v3",
+        "openai/whisper-large-v2",
+        "openai/whisper-large-v3-turbo",
+        "distil-whisper/distil-large-v2",
+        "openai/whisper-large",
+        "openai/whisper-tiny"
+    ],
+    "whisper_en": [
+        "openai/whisper-medium.en",
+        "distil-whisper/distil-small.en",
+        "openai/whisper-small.en"
+    ],
+    "moonshine": [
+        "UsefulSensors/moonshine-base",
+        "UsefulSensors/moonshine-tiny"
+    ],
+    "canary": [
+        "nvidia/canary-1b"
+    ]
+}

@@ -1,0 +1,9 @@
+# ASR inference and the eWER3 baseline. Install a CUDA build of PyTorch first.
+torch
+torchaudio
+transformers
+datasets
+librosa
+soundfile
+nemo_toolkit[asr]
+speechbrain

@@ -1,0 +1,248 @@
+{
+    "wav2vec2-large-960h": {
+        "WER_mean_all_datasets": 31.21,
+        "CER_mean_all_datasets": 14.96,
+        "nwErrors_mean_all_datasets": 4.9,
+        "ncErrors_mean_all_datasets": 12.4
+    },
+    "data2vec-audio-base-960h": {
+        "WER_mean_all_datasets": 33.98,
+        "CER_mean_all_datasets": 16.68,
+        "nwErrors_mean_all_datasets": 5.38,
+        "ncErrors_mean_all_datasets": 13.82
+    },
+    "parakeet-rnnt-1.1b": {
+        "WER_mean_all_datasets": 14.19,
+        "CER_mean_all_datasets": 8.51,
+        "nwErrors_mean_all_datasets": 2.34,
+        "ncErrors_mean_all_datasets": 7.61
+    },
+    "canary-1b": {
+        "WER_mean_all_datasets": 14.93,
+        "CER_mean_all_datasets": 8.9,
+        "nwErrors_mean_all_datasets": 2.41,
+        "ncErrors_mean_all_datasets": 7.96
+    },
+    "wav2vec2-conformer-rel-pos-large-960h-ft": {
+        "WER_mean_all_datasets": 25.81,
+        "CER_mean_all_datasets": 12.82,
+        "nwErrors_mean_all_datasets": 4.02,
+        "ncErrors_mean_all_datasets": 10.59
+    },
+    "parakeet-tdt-1.1b": {
+        "WER_mean_all_datasets": 13.98,
+        "CER_mean_all_datasets": 8.05,
+        "nwErrors_mean_all_datasets": 2.29,
+        "ncErrors_mean_all_datasets": 7.21
+    },
+    "parakeet-ctc-1.1b": {
+        "WER_mean_all_datasets": 15.17,
+        "CER_mean_all_datasets": 8.63,
+        "nwErrors_mean_all_datasets": 2.38,
+        "ncErrors_mean_all_datasets": 7.39
+    },
+    "whisper-large-v3": {
+        "WER_mean_all_datasets": 18.13,
+        "CER_mean_all_datasets": 12.02,
+        "nwErrors_mean_all_datasets": 2.87,
+        "ncErrors_mean_all_datasets": 10.4
+    },
+    "whisper-small.en": {
+        "WER_mean_all_datasets": 20.09,
+        "CER_mean_all_datasets": 13.35,
+        "nwErrors_mean_all_datasets": 3.15,
+        "ncErrors_mean_all_datasets": 11.42
+    },
+    "speechllm-1.5B": {
+        "WER_mean_all_datasets": 45.9,
+        "CER_mean_all_datasets": 32.8,
+        "nwErrors_mean_all_datasets": 7.92,
+        "ncErrors_mean_all_datasets": 30.07
+    },
+    "wav2vec2-large-robust-ft-libri-960h": {
+        "WER_mean_all_datasets": 25.94,
+        "CER_mean_all_datasets": 11.99,
+        "nwErrors_mean_all_datasets": 4.09,
+        "ncErrors_mean_all_datasets": 10.01
+    },
+    "moonshine-base": {
+        "WER_mean_all_datasets": 21.4,
+        "CER_mean_all_datasets": 12.75,
+        "nwErrors_mean_all_datasets": 3.28,
+        "ncErrors_mean_all_datasets": 10.61
+    },
+    "parakeet-tdt_ctc-110m": {
+        "WER_mean_all_datasets": 15.75,
+        "CER_mean_all_datasets": 9.15,
+        "nwErrors_mean_all_datasets": 2.5,
+        "ncErrors_mean_all_datasets": 7.95
+    },
+    "whisper-tiny": {
+        "WER_mean_all_datasets": 34.81,
+        "CER_mean_all_datasets": 21.48,
+        "nwErrors_mean_all_datasets": 5.04,
+        "ncErrors_mean_all_datasets": 16.96
+    },
+    "distil-small.en": {
+        "WER_mean_all_datasets": 20.07,
+        "CER_mean_all_datasets": 12.18,
+        "nwErrors_mean_all_datasets": 2.99,
+        "ncErrors_mean_all_datasets": 9.95
+    },
+    "wav2vec2-large-960h-lv60-self": {
+        "WER_mean_all_datasets": 23.46,
+        "CER_mean_all_datasets": 11.8,
+        "nwErrors_mean_all_datasets": 3.71,
+        "ncErrors_mean_all_datasets": 9.78
+    },
+    "parakeet-rnnt-0.6b": {
+        "WER_mean_all_datasets": 14.99,
+        "CER_mean_all_datasets": 8.91,
+        "nwErrors_mean_all_datasets": 2.42,
+        "ncErrors_mean_all_datasets": 7.78
+    },
+    "stt_en_conformer_ctc_small": {
+        "WER_mean_all_datasets": 21.16,
+        "CER_mean_all_datasets": 11.23,
+        "nwErrors_mean_all_datasets": 3.26,
+        "ncErrors_mean_all_datasets": 9.31
+    },
+    "wav2vec2-base-960h": {
+        "WER_mean_all_datasets": 35.58,
+        "CER_mean_all_datasets": 17.07,
+        "nwErrors_mean_all_datasets": 5.65,
+        "ncErrors_mean_all_datasets": 14.23
+    },
+    "stt_en_fastconformer_ctc_large": {
+        "WER_mean_all_datasets": 17.53,
+        "CER_mean_all_datasets": 9.85,
+        "nwErrors_mean_all_datasets": 2.79,
+        "ncErrors_mean_all_datasets": 8.52
+    },
+    "stt_en_fastconformer_transducer_large": {
+        "WER_mean_all_datasets": 17.25,
+        "CER_mean_all_datasets": 10.38,
+        "nwErrors_mean_all_datasets": 2.81,
+        "ncErrors_mean_all_datasets": 9.18
+    },
+    "mms-1b-fl102": {
+        "WER_mean_all_datasets": 51.56,
+        "CER_mean_all_datasets": 23.62,
+        "nwErrors_mean_all_datasets": 8.0,
+        "ncErrors_mean_all_datasets": 19.18
+    },
+    "seamless-m4t-v2-large": {
+        "WER_mean_all_datasets": 29.41,
+        "CER_mean_all_datasets": 19.82,
+        "nwErrors_mean_all_datasets": 5.06,
+        "ncErrors_mean_all_datasets": 18.37
+    },
+    "hf-seamless-m4t-large": {
+        "WER_mean_all_datasets": 30.38,
+        "CER_mean_all_datasets": 21.33,
+        "nwErrors_mean_all_datasets": 5.07,
+        "ncErrors_mean_all_datasets": 19.12
+    },
+    "stt_en_conformer_ctc_large": {
+        "WER_mean_all_datasets": 16.84,
+        "CER_mean_all_datasets": 8.83,
+        "nwErrors_mean_all_datasets": 2.62,
+        "ncErrors_mean_all_datasets": 7.56
+    },
+    "parakeet-ctc-0.6b": {
+        "WER_mean_all_datasets": 15.61,
+        "CER_mean_all_datasets": 8.87,
+        "nwErrors_mean_all_datasets": 2.45,
+        "ncErrors_mean_all_datasets": 7.56
+    },
+    "whisper-large-v2": {
+        "WER_mean_all_datasets": 19.29,
+        "CER_mean_all_datasets": 12.98,
+        "nwErrors_mean_all_datasets": 3.11,
+        "ncErrors_mean_all_datasets": 11.33
+    },
+    "wav2vec2-conformer-rope-large-960h-ft": {
+        "WER_mean_all_datasets": 25.62,
+        "CER_mean_all_datasets": 12.83,
+        "nwErrors_mean_all_datasets": 4.02,
+        "ncErrors_mean_all_datasets": 10.55
+    },
+    "speechllm-2B": {
+        "WER_mean_all_datasets": 35.6,
+        "CER_mean_all_datasets": 22.32,
+        "nwErrors_mean_all_datasets": 5.87,
+        "ncErrors_mean_all_datasets": 19.64
+    },
+    "hubert-xlarge-ls960-ft": {
+        "WER_mean_all_datasets": 24.9,
+        "CER_mean_all_datasets": 11.67,
+        "nwErrors_mean_all_datasets": 3.94,
+        "ncErrors_mean_all_datasets": 9.79
+    },
+    "data2vec-audio-large-960h": {
+        "WER_mean_all_datasets": 24.85,
+        "CER_mean_all_datasets": 12.2,
+        "nwErrors_mean_all_datasets": 3.91,
+        "ncErrors_mean_all_datasets": 10.11
+    },
+    "hf-seamless-m4t-medium": {
+        "WER_mean_all_datasets": 31.17,
+        "CER_mean_all_datasets": 21.7,
+        "nwErrors_mean_all_datasets": 5.32,
+        "ncErrors_mean_all_datasets": 19.86
+    },
+    "mms-1b-all": {
+        "WER_mean_all_datasets": 27.77,
+        "CER_mean_all_datasets": 13.42,
+        "nwErrors_mean_all_datasets": 4.36,
+        "ncErrors_mean_all_datasets": 11.31
+    },
+    "whisper-large": {
+        "WER_mean_all_datasets": 19.79,
+        "CER_mean_all_datasets": 13.41,
+        "nwErrors_mean_all_datasets": 3.1,
+        "ncErrors_mean_all_datasets": 11.19
+    },
+    "distil-large-v3": {
+        "WER_mean_all_datasets": 17.68,
+        "CER_mean_all_datasets": 11.09,
+        "nwErrors_mean_all_datasets": 2.72,
+        "ncErrors_mean_all_datasets": 9.29
+    },
+    "whisper-large-v3-turbo": {
+        "WER_mean_all_datasets": 18.55,
+        "CER_mean_all_datasets": 12.35,
+        "nwErrors_mean_all_datasets": 2.98,
+        "ncErrors_mean_all_datasets": 11.0
+    },
+    "asr-wav2vec2-librispeech": {
+        "WER_mean_all_datasets": 24.63,
+        "CER_mean_all_datasets": 12.07,
+        "nwErrors_mean_all_datasets": 3.86,
+        "ncErrors_mean_all_datasets": 10.0
+    },
+    "distil-large-v2": {
+        "WER_mean_all_datasets": 18.34,
+        "CER_mean_all_datasets": 11.39,
+        "nwErrors_mean_all_datasets": 2.79,
+        "ncErrors_mean_all_datasets": 9.47
+    },
+    "hubert-large-ls960-ft": {
+        "WER_mean_all_datasets": 25.27,
+        "CER_mean_all_datasets": 11.9,
+        "nwErrors_mean_all_datasets": 3.99,
+        "ncErrors_mean_all_datasets": 9.99
+    },
+    "whisper-medium.en": {
+        "WER_mean_all_datasets": 20.03,
+        "CER_mean_all_datasets": 13.62,
+        "nwErrors_mean_all_datasets": 3.15,
+        "ncErrors_mean_all_datasets": 11.71
+    },
+    "moonshine-tiny": {
+        "WER_mean_all_datasets": 25.89,
+        "CER_mean_all_datasets": 14.98,
+        "nwErrors_mean_all_datasets": 3.93,
+        "ncErrors_mean_all_datasets": 12.31
+    }
+}

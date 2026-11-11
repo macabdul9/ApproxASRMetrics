@@ -1,0 +1,22 @@
+{
+    "macabdul9/PerturbedASR_eval_1K": {
+        "split": "test",
+        "text_column": "reference"
+    },
+    "macabdul9/Adversarial_eval_1K": {
+        "split": "test",
+        "text_column": "true_text"
+    },
+    "macabdul9/salt-multispeaker-eng": {
+        "split": "test",
+        "text_column": "text"
+    },
+    "macabdul9/SupremeCourtSpeech_eval_1K": {
+        "split": "test",
+        "text_column": "transcript"
+    },
+    "macabdul9/BERSt_eval_1K": {
+        "split": "test",
+        "text_column": "transcript"
+    }
+}

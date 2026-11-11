@@ -1,0 +1,7 @@
+{
+    "mozilla-foundation/common_voice_17_0": {
+        "config": "en",
+        "split": "test",
+        "text_column": "sentence"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "macabdul9/multilingual_librispeech_de_eval_1K": {
+        "split": "test",
+        "text_column": "reference"
+    },
+    "macabdul9/common_voice_17_0_de_eval_1K": {
+        "split": "test",
+        "text_column": "reference"
+    }
+}

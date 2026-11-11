@@ -1,0 +1,22 @@
+{
+    "macabdul9/LibriSpeech_test_noise_eval_1K": {
+        "split": "test",
+        "text_column": "reference"
+    },
+    "macabdul9/Primock57_eval_1K": {
+        "split": "test",
+        "text_column": "reference"
+    },
+    "macabdul9/voxpopuli_en_accented_eval_1K": {
+        "split": "test",
+        "text_column": "reference"
+    },
+    "macabdul9/BERSt-test-validation_eval_1K": {
+        "split": "test",
+        "text_column": "reference"
+    },
+    "macabdul9/atcosim_corpus_eval_1K": {
+        "split": "test",
+        "text_column": "reference"
+    }
+}

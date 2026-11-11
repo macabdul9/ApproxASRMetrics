@@ -1,0 +1,7 @@
+# SONAR speech/text embeddings (similarity feature and CMD embeddings).
+# sonar-space pins its own fairseq2 and torch versions; use a separate environment
+# and follow https://github.com/facebookresearch/SONAR for the matching CUDA build.
+sonar-space
+fairseq2
+datasets
+librosa

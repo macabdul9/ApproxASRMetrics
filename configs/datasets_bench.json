@@ -1,0 +1,42 @@
+{
+    "macabdul9/librispeech_asr_test_clean_eval_1K": {
+        "split": "test",
+        "text_column": "reference"
+    },
+    "macabdul9/voxpopuli_en_eval_1K": {
+        "split": "test",
+        "text_column": "reference"
+    },
+    "macabdul9/tedlium-dev-test_eval_1K": {
+        "split": "test",
+        "text_column": "reference"
+    },
+    "macabdul9/gigaspeech_eval_1K": {
+        "split": "test",
+        "text_column": "reference"
+    },
+    "macabdul9/spgispeech_S_eval_1K": {
+        "split": "test",
+        "text_column": "reference"
+    },
+    "macabdul9/earnings22_chunked_eval_1K": {
+        "split": "test",
+        "text_column": "reference"
+    },
+    "macabdul9/ami_ihm_eval_1K": {
+        "split": "test",
+        "text_column": "reference"
+    },
+    "macabdul9/common_voice_17_0_en_eval_1K": {
+        "split": "test",
+        "text_column": "reference"
+    },
+    "macabdul9/peoples_speech_eval_1K": {
+        "split": "test",
+        "text_column": "reference"
+    },
+    "macabdul9/slue_voxceleb_eval_1K": {
+        "split": "test",
+        "text_column": "reference"
+    }
+}

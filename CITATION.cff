@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "Please cite the paper when using this research code."
+title: "On the Robust Approximation of ASR Metrics"
+type: software
+authors:
+  - family-names: Waheed
+    given-names: Abdul
+  - family-names: Atwany
+    given-names: Hanin
+  - family-names: Singh
+    given-names: Rita
+  - family-names: Raj
+    given-names: Bhiksha
+repository-code: "https://github.com/macabdul9/ApproxASRMetrics"
+preferred-citation:
+  type: conference-paper
+  title: "On the Robust Approximation of ASR Metrics"
+  authors:
+    - family-names: Waheed
+      given-names: Abdul
+    - family-names: Atwany
+      given-names: Hanin
+    - family-names: Singh
+      given-names: Rita
+    - family-names: Raj
+      given-names: Bhiksha
+  collection-title: "Findings of the Association for Computational Linguistics: ACL 2025"
+  publisher:
+    name: "Association for Computational Linguistics"
+  year: 2025
+  month: 7
+  start: 23119
+  end: 23146
+  doi: "10.18653/v1/2025.findings-acl.1187"
+  url: "https://aclanthology.org/2025.findings-acl.1187/"
+  conference:
+    name: "Findings of the Association for Computational Linguistics: ACL 2025"
+    city: "Vienna"
+    country: "AT"

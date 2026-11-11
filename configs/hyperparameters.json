@@ -1,0 +1,58 @@
+{
+    "WER":{
+        "stack__rf__n_estimators": 1000,
+        "stack__rf__min_samples_split": 15,
+        "stack__rf__min_samples_leaf": 1,
+        "stack__rf__max_depth": 30,
+        "stack__hgb__max_iter": 400,
+        "stack__hgb__max_depth": 3,
+        "stack__hgb__loss": "poisson",
+        "stack__hgb__learning_rate": 0.2,
+        "stack__gbr__n_estimators": 800,
+        "stack__gbr__min_impurity_decrease": 0.2,
+        "stack__gbr__max_depth": 7,
+        "stack__gbr__learning_rate": 0.2
+    },
+    "CER":{
+        "stack__rf__n_estimators": 300,
+        "stack__rf__min_samples_split": 5,
+        "stack__rf__min_samples_leaf": 4,
+        "stack__rf__max_depth": 25,
+        "stack__hgb__max_iter": 300,
+        "stack__hgb__max_depth": 15,
+        "stack__hgb__loss": "poisson",
+        "stack__hgb__learning_rate": 0.2,
+        "stack__gbr__n_estimators": 200,
+        "stack__gbr__min_impurity_decrease": 0.0,
+        "stack__gbr__max_depth": 5,
+        "stack__gbr__learning_rate": 0.001
+    },
+    "nwErrors":{
+        "stack__rf__n_estimators": 200,
+        "stack__rf__min_samples_split": 2,
+        "stack__rf__min_samples_leaf": 1,
+        "stack__rf__max_depth": 30,
+        "stack__hgb__max_iter": 200,
+        "stack__hgb__max_depth": 5,
+        "stack__hgb__loss": "poisson",
+        "stack__hgb__learning_rate": 0.1,
+        "stack__gbr__n_estimators": 400,
+        "stack__gbr__min_impurity_decrease": 0.2,
+        "stack__gbr__max_depth": 10,
+        "stack__gbr__learning_rate": 0.1
+    },
+    "ncErrors":{
+        "stack__rf__n_estimators": 200,
+        "stack__rf__min_samples_split": 2,
+        "stack__rf__min_samples_leaf": 1,
+        "stack__rf__max_depth": 30,
+        "stack__hgb__max_iter": 200,
+        "stack__hgb__max_depth": 5,
+        "stack__hgb__loss": "poisson",
+        "stack__hgb__learning_rate": 0.1,
+        "stack__gbr__n_estimators": 400,
+        "stack__gbr__min_impurity_decrease": 0.2,
+        "stack__gbr__max_depth": 10,
+        "stack__gbr__learning_rate": 0.1
+    }
+}
